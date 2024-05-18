@@ -4,7 +4,7 @@ import MainHeader from "../mainHeader/MainHeader";
 import MediaBar from "../socialMediaBar/MediaBar";
 import styles from "./FooterSection.module.css";
 import useWindowWidth from "../../utils/hooks/UseWindowWidth";
-import footerLogo from "../../assets/logos/footerLogo.png";
+import footerLogo from "/logos/footerLogo.png";
 
 const FooterSection = () => {
   const windowWidth = useWindowWidth();

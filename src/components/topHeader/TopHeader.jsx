@@ -1,5 +1,5 @@
 import styles from "./TopHeader.module.css";
-import logo from ".././../assets/logos/logo.png";
+import logo from "/logos/logo.png";
 
 const TopHeader = () => {
   return (

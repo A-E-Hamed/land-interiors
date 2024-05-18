@@ -1,5 +1,5 @@
 import styles from "./Footer.module.css";
-import footerLogo from "../../assets/logos/footerLogo.png";
+import footerLogo from "/logos/footerLogo.png";
 const Footer = () => {
   return (
     <div className={styles.container}>

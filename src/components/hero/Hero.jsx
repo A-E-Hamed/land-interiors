@@ -1,5 +1,5 @@
 import styles from "./Hero.module.css";
-import landingImage from "../../assets/landingImages/landingPage.png";
+import landingImage from "/landingImages/landingPage.png";
 
 const Hero = () => {
   return (

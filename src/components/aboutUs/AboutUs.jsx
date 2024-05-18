@@ -1,9 +1,9 @@
 import React from 'react';
 import { Grid } from '@mui/material';
 import styles from "./AboutUs.module.css";
-import calendar from "../../assets/aboutIcons/calendar.png";
-import home from "../../assets/aboutIcons/home.png";
-import certificate from "../../assets/aboutIcons/certificate.png";
+import calendar from "/aboutIcons/calendar.png";
+import home from "/aboutIcons/home.png";
+import certificate from "/aboutIcons/certificate.png";
 
 const AboutUs = () => {
   return (
