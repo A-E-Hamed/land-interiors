@@ -4,8 +4,15 @@
   align-items: center;
   padding-left: 2rem;
   padding-right: 2rem;
-  background-color: #F8F8F8;
-  
+  background-color: #f8f8f8;
+}
+
+.container a {
+  text-decoration: none;
+  color: #451a64;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Poppins";
 }
 
 .navLinks {
@@ -13,9 +20,3 @@
   gap: 108px;
 }
 
-.navLinks p {
-  color: #451a64;
-  font-size: 20px;
-  font-weight: 500;
-  font-family: "Poppins";
-}

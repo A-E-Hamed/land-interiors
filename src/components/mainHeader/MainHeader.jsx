@@ -1,13 +1,13 @@
-import styles from "./MainHeader.module.css"
+import styles from "./MainHeader.module.css";
 
 const MainHeader = () => {
   return (
     <div className={styles.container}>
-      <p>About</p>
-      <p>Projects</p>
-      <p>Studio</p>
-      <p>Blog</p>
-      <p>Contact</p>
+      <a href="#">About</a>
+      <a href="#">Projects</a>
+      <a href="#">Studio</a>
+      <a href="#">Blog</a>
+      <a href="#">Contact</a>
     </div>
   );
 };

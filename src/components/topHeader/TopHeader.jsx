@@ -6,8 +6,8 @@ const TopHeader = () => {
     <div className={styles.container}>
       <img src={logo} alt="logo" />
       <div className={styles.navLinks}>
-        <p>Join as Design Expert</p>
-        <p>Partner with LAND interiors</p>
+        <a href="#">Join as Design Expert</a>
+        <a href="#">Partner with LAND interiors</a>
       </div>
     </div>
   );
