@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 77px;
+  background-color: #f8f8f8;
+  padding-bottom: 2rem;
+}
+
+.container p {
+  font-size: 20px;
+  font-family: "Poppins";
+  font-weight: 400;
+  margin: 0px;
+}

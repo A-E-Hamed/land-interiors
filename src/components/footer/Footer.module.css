@@ -1,0 +1,36 @@
+.container {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container p {
+  font-family: "Poppins";
+  font-size: 18px;
+}
+
+.container ul {
+  list-style: none;
+  padding: 0px;
+}
+
+.container li {
+  font-family: "Poppins";
+  font-size: 18px;
+}
+
+.rightSection {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  padding-top: 70px;
+}
+
+.rightSection p {
+  margin-top: 0px;
+  margin-bottom: 2rem;
+}
+
+.footerSection {
+  width: 30%;
+}

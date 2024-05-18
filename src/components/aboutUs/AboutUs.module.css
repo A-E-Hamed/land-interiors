@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 6rem;
+}
+
+.header {
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 36px;
+  margin-bottom: 6rem;
+}
+
+/* Updated iconsSection to handle responsive width better */
+.iconsSection {
+  width: 100%; /* Make the Grid container full width */
+  max-width: 1200px; /* Optionally limit the max width */
+  margin: 0 auto; /* Centering the grid if less than full width */
+}
+
+.aboutElement {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 35%;
+}
+
+.aboutElement img {
+  width: 72px;
+  height: 72px;
+}
+
+.aboutElement p {
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+}

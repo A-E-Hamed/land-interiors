@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+
+.menuIcon {
+  cursor: pointer;
+  width: 60px !important;
+  height: 100px !important;
+}

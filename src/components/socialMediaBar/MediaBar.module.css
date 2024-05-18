@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 960px) {
+  .container {
+    justify-content: unset;
+    gap: 30px;
+  }
+}

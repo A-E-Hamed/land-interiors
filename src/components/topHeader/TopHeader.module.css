@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  background-color: #F8F8F8;
+  
+}
+
+.navLinks {
+  display: flex;
+  gap: 108px;
+}
+
+.navLinks p {
+  color: #451a64;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Poppins";
+}
